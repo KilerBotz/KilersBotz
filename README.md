@@ -1,4 +1,4 @@
-# BASE-BOT
+# KilersBotz
 
 <p align="center"> <a href="https://wa.me/+6287701656619"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for- the-badge&logo=whatsapp&logoColor=white " /></p></a>
 
@@ -9,6 +9,11 @@
 <img src="https://avatars.githubusercontent.com/KilersBotz" width="240" height="240"/>
 
 ## `Thanks To`
+
+```
+Allah Swt
+My Family
+```
 
 [`KilersBotz`](https://github.com/KilersBotz)
 
