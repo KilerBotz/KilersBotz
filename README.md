@@ -33,11 +33,11 @@ My Family
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/KilerBotz/KilersBotz/blob/master/setting.json)
+- Owner number [Here](https://github.com/KilerBotz/KilersBotz/blob/master/settings.json)
 
-- Owner name [Here](https://github.com/KilerBotz/KilersBotz/blob/master/setting.json)
+- Owner name [Here](https://github.com/KilerBotz/KilersBotz/blob/master/settings.json)
 
-- Botname [Here](https://github.com/KilerBotz/KilersBotz/blob/master/setting.json)
+- Botname [Here](https://github.com/KilerBotz/KilersBotz/blob/master/settings.json)
 <p align="center">
 
 
@@ -46,7 +46,9 @@ My Family
 ```bash
 termux-setup-storage
 pkg install nodejs
-cd /sdcard
-cd Base
-node main
+pkg install git
+git clone https://KilerBotz/KilersBotz
+cd KilersBotz
+npm start
+Sqan... 
 ```
